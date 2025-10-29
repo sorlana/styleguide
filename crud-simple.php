@@ -6,8 +6,8 @@
   сохранения изменений необходимо нажать на кнопку <b>«Создать»</b> в конце
   таблицы.
 </p>
-<img class="im mgb" src="./img/simple/CRUD простые сущности просмотр.jpg" />
-<img class="im mgb" src="./img/simple/CRUD простые сущности создание1.jpg" />
+<img class="im mgb" src="./img/simple/sm1.jpg" />
+<img class="im mgb" src="./img/simple/sm2.jpg" />
 <h3 id="section2">Редактирование</h3>
 <p>
   Редактирование строки справочника осуществляется в самой таблице. Для
@@ -16,22 +16,22 @@
 </p>
 <img
   class="im mgb"
-  src="./img/simple/CRUD простые сущности редактирование1.jpg"
+  src="./img/simple/sm3.jpg"
 />
 <p>Для сохранения изменений нажмите на кнопку <b>«Сохранить»</b>.</p>
 <img
   class="im mgb"
-  src="./img/simple/CRUD простые сущности редактирование2.jpg"
+  src="./img/simple/sm4.jpg"
 />
 <h3 id="section3">Удаление</h3>
 <p>
   Редактирование одной строки происходит нажатием на иконку <b>«Удалить»</b>,
   которая располагается в конце каждой строки.
 </p>
-<img class="im mgb" src="./img/simple/CRUD простые сущности удаление1.jpg" />
+<img class="im mgb" src="./img/simple/sm5.jpg" />
 <p>
   Удалите несколько строк сразу: отметьте флажки слева и нажмите
   <b>«Удалить»</b> на панели действий.
 </p>
-<img class="im mgb" src="./img/simple/CRUD простые сущности удаление2.jpg" />
-<img class="im mgb" src="./img/simple/CRUD простые сущности удаление3.jpg" />
+<img class="im mgb" src="./img/simple/sm6.jpg" />
+<img class="im mgb" src="./img/simple/sm7.jpg" />

@@ -20,20 +20,20 @@
       <li>Обратиться в поддержку для восстановления пароля</li>
   </ul>
 </p> 
-<img class="im mgb" src="./img/error/Ошибки и предупреждения - серверные (валидация).jpg" />
-<img class="im mgb" src="./img/error/Ошибки и предупреждения - бизнес-предупреждения.jpg" />
+<img class="im mgb" src="./img/error/er1.jpg" />
+<img class="im mgb" src="./img/error/er2.jpg" />
 <h3 id="section2">Ошибки валидации</h3>
 <img
   class="im mgb"
-  src="./img/error/Ошибки и предупреждения - валидация (клиентская часть).jpg"
+  src="./img/error/er3.jpg"
 />
 <img
   class="im mgb"
-  src="./img/error/Ошибки и предупреждения - ошибки загрузки файлов.jpg"
+  src="./img/error/er4.jpg"
 />
 <h3 id="section3">Серверные ошибки и предупреждения</h3>
-<img class="im mgb" src="./img/error/Ошибки 500.jpg" />
-<img class="im mgb" src="./img/error/Обновления.jpg" />
-<img class="im mgb" src="./img/error/Ошибки и предупреждения - ошибки загрузки данных.jpg" />
+<img class="im mgb" src="./img/error/er5.jpg" />
+<img class="im mgb" src="./img/error/er6.jpg" />
+<img class="im mgb" src="./img/error/er7.jpg" />
 <h3 id="section4">Бизнес-уведомления</h3>
-<img class="im mgb" src="./img/error/Ошибки и предупреждения - бизнес-новый.jpg" />
+<img class="im mgb" src="./img/error/er8.jpg" />
