@@ -30,15 +30,15 @@
         <?php endif; ?>
     </div>
 
-    <div class="nav-item has-submenu">
-        <a class="nav-link <?php echo (isset($_GET['page']) && $_GET['page'] === 'error') ? 'active' : ''; ?>" href="?page=error">
+    <!--<div class="nav-item has-submenu">
+        <a class="nav-link <?//php echo (isset($_GET['page']) && $_GET['page'] === 'error') ? 'active' : ''; ?>" href="?page=error">
             Ошибки и предупреждения
         </a>
-        <?php if (isset($_GET['page']) && $_GET['page'] === 'error'): ?>
-            <a class="nav-link nav-link-2 <?php echo (isset($_GET['anchor']) && $_GET['anchor'] === 'section1') ? 'active' : ''; ?>" href="?page=error&anchor=section1">Системные ошибки</a>
-            <a class="nav-link nav-link-2 <?php echo (isset($_GET['anchor']) && $_GET['anchor'] === 'section2') ? 'active' : ''; ?>" href="?page=error&anchor=section2">Ошибки валидации</a>
-            <a class="nav-link nav-link-2 <?php echo (isset($_GET['anchor']) && $_GET['anchor'] === 'section3') ? 'active' : ''; ?>" href="?page=error&anchor=section3">Сетевые ошибки</a>
-            <a class="nav-link nav-link-2 <?php echo (isset($_GET['anchor']) && $_GET['anchor'] === 'section4') ? 'active' : ''; ?>" href="?page=error&anchor=section4">Бизнес-уведомления</a>
-        <?php endif; ?>
-    </div>
+        <?//php if (isset($_GET['page']) && $_GET['page'] === 'error'): ?>
+            <a class="nav-link nav-link-2 <?//php echo (isset($_GET['anchor']) && $_GET['anchor'] === 'section1') ? 'active' : ''; ?>" href="?page=error&anchor=section1">Системные ошибки</a>
+            <a class="nav-link nav-link-2 <?//php echo (isset($_GET['anchor']) && $_GET['anchor'] === 'section2') ? 'active' : ''; ?>" href="?page=error&anchor=section2">Ошибки валидации</a>
+            <a class="nav-link nav-link-2 <?//php echo (isset($_GET['anchor']) && $_GET['anchor'] === 'section3') ? 'active' : ''; ?>" href="?page=error&anchor=section3">Сетевые ошибки</a>
+            <a class="nav-link nav-link-2 <?//php echo (isset($_GET['anchor']) && $_GET['anchor'] === 'section4') ? 'active' : ''; ?>" href="?page=error&anchor=section4">Бизнес-уведомления</a>
+        <?//php endif; ?>
+    </div>-->
 </nav>
